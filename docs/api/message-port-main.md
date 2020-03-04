@@ -42,4 +42,8 @@ Returns:
 
 Emitted when a MessagePortMain object receives a message.
 
+#### Event: 'close'
+
+Emitted when the remote end of a MessagePortMain object becomes disconnected.
+
 [`MessagePort`]: https://developer.mozilla.org/en-US/docs/Web/API/MessagePort
